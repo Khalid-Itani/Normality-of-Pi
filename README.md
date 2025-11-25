@@ -72,6 +72,7 @@ Important Note
     This project does not prove π is normal. Normality is a global property that cannot be confirmed with finite data. Instead, this project provides empirical evidence that π behaves like a normal number in multiple bases.
 
 How to Run
+
     git clone https://github.com/Khalid-Itani/Normality-of-Pi.git
     pip install numpy matplotlib
     python Final_Project.py
